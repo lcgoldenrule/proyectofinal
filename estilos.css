@@ -1,0 +1,38 @@
+body {
+color: red;	
+background-image:url("sonriendo.png");
+text-align:center;
+font-family:"verdana";
+	
+	
+	
+	
+}
+table th,tr{
+border:solid red;	
+	
+	
+	
+}
+h1 {
+	color:Violet;
+	
+	
+	
+	
+}
+.saludo1{
+	
+	color:orange;	
+	font-family:Arial;
+	font-size:22px;
+	
+}
+
+.saludo2{
+	color:pink;	
+	font-family:Arial;
+	font-size:30px;
+	
+	
+}
